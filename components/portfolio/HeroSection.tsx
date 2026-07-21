@@ -328,8 +328,8 @@ export function HeroSection() {
       <div className="container">
         <div className="hero-content reveal">
           <div className="hero-eyebrow">Portfolio 2025</div>
-          <div className="hero-jp-name">林 雄 斗</div>
-          <h1 className="hero-name">HAYASHI YUTO</h1>
+          <div className="hero-jp-name">中村 朝陽</div>
+          <h1 className="hero-name">ASAHI NAKAMURA</h1>
           <p className="hero-role">
             <span className="typed-text">{typed}</span>
             <span className="cursor" />

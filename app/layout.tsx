@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Hayashi Yuto 林雄斗 | Developer Portfolio",
+  title: "Asahi Nakamura 中村朝陽 | Developer Portfolio",
   description:
-    "Full-stack developer specializing in Web, Mobile, AI/SaaS, automation, games, and 3D — Hayashi Yuto portfolio.",
+    "Full-stack developer specializing in Web, Mobile, AI/SaaS, automation, games, and 3D — Asahi Nakamura portfolio.",
 };
 
 export default function RootLayout({

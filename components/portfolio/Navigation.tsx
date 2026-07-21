@@ -17,7 +17,7 @@ export function Navigation() {
   return (
     <nav id="nav">
       <a href="#" className="nav-logo">
-        林 <span>Hayashi</span>
+        中村 <span>Nakamura</span>
       </a>
       <ul
         className={`nav-links${menuOpen ? " open" : ""}`}

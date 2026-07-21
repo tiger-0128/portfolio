@@ -203,11 +203,11 @@ export default function PortfolioHome() {
             <div className="about-photo-wrap reveal">
               <div className="about-photo-deco" />
               <div className="about-photo-frame">
-                <img src="/software-engineer.png" alt="Hayashi Yuto" />
+                <img src="/software-engineer.png" alt="Asahi Nakamura" />
               </div>
               <div className="about-photo-badge">
-                <span className="kanji">林</span>
-                <span className="romaji">HAYASHI</span>
+                <span className="kanji">中村</span>
+                <span className="romaji">NAKAMURA</span>
               </div>
             </div>
 
@@ -222,7 +222,7 @@ export default function PortfolioHome() {
                 Experiences
               </h2>
               <p className="about-bio">
-                I&apos;m Hayashi Yuto, a full-stack developer and digital
+                I&apos;m Asahi Nakamura, a full-stack developer and digital
                 craftsman specializing in Web, Mobile, AI/SaaS, and Automation.
                 I blend the precision of Japanese craftsmanship with modern
                 technology to build products that are both functional and
@@ -547,9 +547,10 @@ export default function PortfolioHome() {
       <footer id="footer">
         <div className="container">
           <div className="footer-inner">
-            <div className="footer-logo">林 雄斗</div>
+            <div className="footer-logo">中村 朝陽</div>
             <p className="footer-copy">
-              © {new Date().getFullYear()} Hayashi Yuto. Crafted with 🌸 & code.
+              © {new Date().getFullYear()} Asahi Nakamura. Crafted with 🌸 &
+              code.
             </p>
           </div>
         </div>

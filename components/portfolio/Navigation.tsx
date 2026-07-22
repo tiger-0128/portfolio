@@ -45,7 +45,7 @@ export function Navigation() {
         </li>
         <li>
           <a
-            href="mailto:hayashiyuto.dev@gmail.com"
+            href="mailto:neonpanda270@gmail.com"
             className="nav-cta"
             onClick={() => setMenuOpen(false)}
           >
